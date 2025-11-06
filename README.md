@@ -66,9 +66,9 @@
 
 | Project | Description | Tech | Link |
 |--------|-------------|------|------|
-| **Lyne Creatives** | Modern portfolio + collaboration workspace for an architectural firm — boosting visibility & workflow | Next.js, TS, Supabase | 🔗 Coming Soon |
-| **Datapilot** | ML-powered FinTech analytics dashboard — real-time insights for smarter decisions | Django, FastAPI, PostgreSQL, ML | 🔗 Coming Soon |
-| **Ablack** | Fashion product showcase platform helping brands grow online presence | React, Node.js | 🔗 Coming Soon |
+| **Lyne Creatives** | Modern portfolio + collaboration workspace for an architectural firm — boosting visibility & workflow | Next.js, TS, Supabase | 
+| **Datapilot** | ML-powered FinTech analytics dashboard — real-time insights for smarter decisions | Django, FastAPI, PostgreSQL, ML | 
+| **Ablack** | Fashion product showcase platform helping brands grow online presence | React, Node.js 
 
 > “I build products that win, launch, and create real impact.”
 
@@ -91,8 +91,7 @@
 
 ---
 
-### 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=yab-g4u&theme=radical&no-bg=false)
+
 
 ---
 
