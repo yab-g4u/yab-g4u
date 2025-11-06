@@ -4,8 +4,8 @@
 ---
 
 # 💫 About Me  
-🔭 Currently building full-stack products that scale — no “pet projects” 🤝  
-🌍 I collaborate on impactful solutions — Healthcare, Automation & AI Tools  
+🔭 Currently building full-stack products that scale  
+🌍 I collaborate on impactful solutions, Automation & AI Tools  
 🌱 Leveling up backend architecture + cloud deployment skills  
 🎯 If users can’t *feel* the tech — I built it right  
 ⚡ I break things on purpose to learn how to fix them better 😄  
