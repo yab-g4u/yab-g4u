@@ -78,7 +78,7 @@
 |--------|--------|
 | **IDA** | 🥇 1st Place |
 | **Mediscope** | 🥈 2nd Place |
-| **Kuriftu Resort** | 🌟 Top 9 Finalist |
+| **ALX hospitality Hackathon** | 🌟 Top 9 Finalist |
 | **IndieCrop** | 🚀 Finalist |
 
 ---
