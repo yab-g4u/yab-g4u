@@ -15,12 +15,12 @@
 
 ## 🧠 About Me
 
-I'm a software engineer who specializes in building **applied ML systems** — from model training and evaluation to deploying AI-powered tools that solve real problems. My work sits at the intersection of machine learning, backend engineering, and product thinking.
+I'm a software engineer who specializes in building **applied ML systems** from model training and evaluation to deploying AI-powered tools that solve real problems. My work sits at the intersection of machine learning, backend engineering, and product thinking.
 
 - 🔬 Currently building explainable AI tools for financial institutions in Ethiopia
 - 🎯 Focused on: **supervised learning, model interpretability (SHAP/XAI), and ML-powered APIs**
-- 🛠️ I care about writing reproducible, well-tested ML code — not just getting a high accuracy number
-- 🌍 Based in Ethiopia — building ML solutions for local and global challenges
+- 🛠️ I care about writing reproducible, well-tested ML code not just getting a high accuracy number
+- 🌍 Based in Ethiopia building ML solutions for local and global challenges
 
 ---
 
