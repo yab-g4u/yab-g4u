@@ -50,7 +50,7 @@ I'm a software engineer who specializes in building **applied ML systems** from 
 ---
 
 ### 🤖 [IDA](https://github.com/yab-g4u/IDA) — AI-Powered Application
-> An AI-integrated TypeScript application. *(More details in repo)*
+> An AI-integrated health care app that helps user locate pharmacies, know about medicine details
 
 **Stack:** TypeScript · AI APIs
 
