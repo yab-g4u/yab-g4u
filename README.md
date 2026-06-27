@@ -1,5 +1,5 @@
 <h1 align="center">✨ YEABSERA SISAY ✨</h1>
-<h3 align="center">Software Developer | AI & Automation Builder 🚀</h3>
+<h3 align="center">ML Engineer | Python · TensorFlow · Computer Vision</h3>
 
 ---
 
