@@ -57,7 +57,6 @@ My work spans **Agentic AI, Computer Vision, applied Machine Learning, and AI ap
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/yab-g4u/DataPilot.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yab-g4u&repo=DataPilot&theme=tokyonight&hide_border=true"/></a></td>
-<td width="50%" valign="middle"><sub>Swap in any repo name here — these cards pull live stars/forks/language directly from GitHub.</sub></td>
 </tr>
 </table>
 
