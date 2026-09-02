@@ -1,117 +1,134 @@
-<h1 align="center">Hey, I'm Yeabsera Sisay 👋</h1>
+# Yeabsera Sisay
 
-<h3 align="center">ML Engineer & AI Application Builder · Python · Scikit-learn · TensorFlow · FastAPI</h3>
+**AI Engineer · AI Systems Builder · Computer Vision**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yeabsera-sisay-b5615b240/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/yab-g4u">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+I build AI-powered products that turn machine learning research and modern AI capabilities into practical, usable systems.
+
+My work spans **Agentic AI, Computer Vision, applied Machine Learning, and AI application engineering** — from multimodal interfaces and intelligent agents to ML systems with real-world deployment in mind.
+
+[LinkedIn](https://www.linkedin.com/in/yeabsera-sisay-b5615b240/) · [Portfolio](https://yeabsera-sisay.vercel.app/) · [Email](mailto:g4uforlife@gmail.com)
 
 ---
 
-## 🧠 About Me
+## What I Build
 
-I'm a software engineer who specializes in building **applied ML systems** from model training and evaluation to deploying AI-powered tools that solve real problems. My work sits at the intersection of machine learning, backend engineering, and product thinking.
+* **AI Agents & Applications** — intelligent systems that reason, interact, automate workflows, and work with real-world data.
+* **Computer Vision Systems** — camera-based interaction, pose/face tracking, visual understanding, and multimodal experiences.
+* **Applied Machine Learning** — predictive models, evaluation, explainability, and production-oriented ML pipelines.
+* **AI Infrastructure & APIs** — integrating models into reliable applications through APIs, backend services, and cloud deployment.
 
-- 🔬 Currently building explainable AI tools for financial institutions in Ethiopia
-- 🎯 Focused on: **supervised learning, model interpretability (SHAP/XAI), and ML-powered APIs**
-- 🛠️ I care about writing reproducible, well-tested ML code not just getting a high accuracy number
-- 🌍 Based in Ethiopia building ML solutions for local and global challenges
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 [DataPilot](https://github.com/yab-g4u/DataPilot) — Explainable ML Dashboard for Finance
-> An interactive Streamlit dashboard for loan default prediction with SHAP-based model interpretability and PDF audit reporting. Built for microfinance institutions and fintech startups.
-
-**Stack:** Python · Scikit-learn · SHAP · Streamlit · FastAPI · FPDF
-
-- Upload any CSV dataset and train Logistic Regression or Random Forest with one click
-- SHAP global + local explanations for every prediction
-- Generates downloadable PDF compliance reports for auditors
-- FastAPI endpoint for production model serving
+I care about the entire path from **idea → model → system → usable product**.
 
 ---
 
-### 🩺 [Breast Cancer Classifier](https://github.com/yab-g4u/Breast-Cancer-Classifier) — Medical ML Benchmarking
-> Benchmarking Logistic Regression vs SVM on the Wisconsin Breast Cancer dataset for malignant/benign classification.
+## Selected Work
 
-**Stack:** Python · Scikit-learn · Pandas
+### [Suno](https://github.com/yab-g4u) — Interactive AI & Computer Vision
 
-- ~96% accuracy achieved on both models
-- Full evaluation: accuracy score, confusion matrix, classification report
-- Clean preprocessing pipeline with label encoding
+A computer-vision-powered learning environment exploring how children can interact with technology through **facial movement, body tracking, gestures, speech, and visual feedback**.
 
----
+The system combines browser-based computer vision with interactive learning activities to create a more natural human–AI interface.
 
-### 🤖 [IDA](https://github.com/yab-g4u/IDA) — AI-Powered Application
-> An AI-integrated health care app that helps user locate pharmacies, know about medicine details
-
-**Stack:** TypeScript · AI APIs
+**Focus:** Computer Vision · Pose Estimation · Face Landmarks · Multimodal Interaction · AI
 
 ---
 
-### 🏨 [ALX Hospitality Hackathon](https://github.com/yab-g4u/alx-hospitality-hackathon) — Hackathon Project
-> Built during the ALX Hospitality Hackathon — a full-stack solution for the hospitality industry.
+### [Omniq](https://github.com/yab-g4u/omniq) — Multimodal AI System
 
-**Stack:** TypeScript
+An AI system built around **voice-first interaction**, designed to turn natural spoken conversations into structured workflows.
 
----
+The project explores real-time voice interfaces, multilingual interaction, telephony-style experiences, and AI-driven information extraction.
 
-## 🧰 Tech Stack
-
-### Machine Learning & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-XAI-blueviolet?style=flat)
-
-### ML Tooling & Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-### Backend & Full-Stack
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-### Testing & Quality
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+**Focus:** Agentic AI · Voice AI · WebSockets · Multimodal AI · Real-time Systems
 
 ---
 
-## 📊 GitHub Stats
+### [Medscope](https://github.com/yab-g4u/medscope) — AI-Powered Health Intelligence
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yab-g4u&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yab-g4u&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
+An AI application designed to make medical and medication information easier to access and understand.
 
----
+Built around an AI-powered interface that combines structured information with natural-language interaction.
 
-## 💡 What I'm Focused On Right Now
-
-- Expanding DataPilot with fraud detection and credit scoring modules
-- Deepening knowledge of **model deployment at scale** (Docker, Railway, cloud APIs)
-- Exploring **NLP and LLM-powered applications** for Ethiopian language contexts (Amharic)
-- Contributing to open-source ML tooling
+**Focus:** AI Applications · NLP · Information Retrieval · Product Engineering
 
 ---
 
-> *"I care less about the number of technologies used and more about building reliable systems that solve real problems."*
+### [ATLAS](https://github.com/yab-g4u) — AI Portfolio Deployment
+
+An AI-powered portfolio generation system designed to turn a developer's professional information into a deployable personal website.
+
+The system explores automated content generation, GitHub integration, portfolio generation, and deployment workflows.
+
+**Focus:** Generative AI · Automation · Full-Stack AI · Developer Tools
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yab-g4u&color=blue&style=flat" alt="Profile views" />
-</p>
+### [DataPilot](https://github.com/yab-g4u/DataPilot) — Explainable ML for Finance
+
+An applied machine-learning system for financial risk analysis that combines predictive modeling with **SHAP-based explainability**.
+
+The goal is not only to produce predictions, but to make model decisions understandable to the people using them.
+
+**Focus:** Machine Learning · Explainable AI · SHAP · Scikit-learn · FastAPI
+
+---
+
+## Technical Focus
+
+**AI / ML**
+
+Python · PyTorch · TensorFlow · Scikit-learn · OpenCV · SHAP · NumPy · Pandas
+
+**Generative & Agentic AI**
+
+LLM Applications · AI Agents · LangChain · RAG · Embeddings · FAISS · Multimodal AI · Voice AI
+
+**Computer Vision**
+
+OpenCV · MediaPipe · Face & Pose Landmarks · Object Detection · Real-time Vision
+
+**Backend & Systems**
+
+FastAPI · Django · Node.js · Express · PostgreSQL · Prisma · Supabase · Firebase
+
+**Frontend**
+
+TypeScript · React · Next.js · Tailwind CSS
+
+**Engineering**
+
+Git · REST APIs · WebSockets · Docker · Cloud Deployment · Testing
+
+---
+
+## Engineering Principles
+
+I focus on:
+
+* **Building, not just experimenting** — turning models and APIs into complete usable systems.
+* **Reliable AI** — evaluating behavior, handling failure cases, and designing systems around model limitations.
+* **Human-centered interfaces** — making AI understandable and useful rather than simply adding an AI feature.
+* **Practical deployment** — thinking about performance, APIs, infrastructure, and production constraints early.
+* **Continuous learning** — actively exploring new approaches in AI systems, computer vision, and agentic applications.
+
+---
+
+## Currently Exploring
+
+**Agentic AI · Multimodal AI · Computer Vision · AI Infrastructure · Real-time AI Systems**
+
+I'm particularly interested in systems where AI can **see, hear, reason, and act** rather than simply generate text.
+
+---
+
+## Let's Connect
+
+I'm interested in opportunities and collaborations involving:
+
+**AI Engineering · Computer Vision · Agentic AI · Applied Machine Learning · AI Products**
+
+[Portfolio](https://yeabsera-sisay.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yeabsera-sisay-b5615b240/) · [GitHub](https://github.com/yab-g4u)
+
+---
+
+<sub>Building intelligent systems from Ethiopia 🇪🇹</sub>
