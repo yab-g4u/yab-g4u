@@ -52,11 +52,11 @@ My work spans **Agentic AI, Computer Vision, applied Machine Learning, and AI ap
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/yab-g4u/omniq"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yab-g4u&repo=omniq&theme=tokyonight&hide_border=true"/></a></td>
-<td width="50%"><a href="https://github.com/yab-g4u/medscope"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yab-g4u&repo=medscope&theme=tokyonight&hide_border=true"/></a></td>
+<td width="50%"><a href="https://github.com/yab-g4u/attlas.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yab-g4u&repo=omniq&theme=tokyonight&hide_border=true"/></a></td>
+<td width="50%"><a href="https://github.com/yab-g4u/medscop.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yab-g4u&repo=medscope&theme=tokyonight&hide_border=true"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/yab-g4u/DataPilot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yab-g4u&repo=DataPilot&theme=tokyonight&hide_border=true"/></a></td>
+<td width="50%"><a href="https://github.com/yab-g4u/DataPilot.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yab-g4u&repo=DataPilot&theme=tokyonight&hide_border=true"/></a></td>
 <td width="50%" valign="middle"><sub>Swap in any repo name here — these cards pull live stars/forks/language directly from GitHub.</sub></td>
 </tr>
 </table>
@@ -76,12 +76,12 @@ An applied machine-learning system for financial risk analysis combining predict
 
 `Machine Learning` `Explainable AI` `SHAP` `Scikit-learn` `FastAPI`
 
-#### [Suno](https://github.com/yab-g4u) — Interactive AI & Computer Vision
+#### [Suno](https://sunoos.vercel.app/) — Interactive AI & Computer Vision
 A computer-vision-powered learning environment exploring how children can interact with technology through **facial movement, body tracking, gestures, speech, and visual feedback**.
 
 `Computer Vision` `Pose Estimation` `Face Landmarks` `Multimodal Interaction`
 
-#### [ATLAS](https://github.com/yab-g4u) — AI Portfolio Deployment
+#### [ATLAS](https://attlas-nu.vercel.app/) — AI Portfolio Deployment
 Turns a developer's professional information into a deployable personal website — exploring automated content generation, GitHub integration, and deployment workflows.
 
 `Generative AI` `Automation` `Full-Stack AI` `Developer Tools`
