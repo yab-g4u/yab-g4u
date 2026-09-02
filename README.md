@@ -1,134 +1,278 @@
-# Yeabsera Sisay
+<div align="center">
 
-**AI Engineer · AI Systems Builder · Computer Vision**
+# 👋 Hey, I'm **Yeabsera Sisay**
 
-I build AI-powered products that turn machine learning research and modern AI capabilities into practical, usable systems.
+### **AI Engineer · Agentic AI · Computer Vision · AI Systems**
 
-My work spans **Agentic AI, Computer Vision, applied Machine Learning, and AI application engineering** — from multimodal interfaces and intelligent agents to ML systems with real-world deployment in mind.
+<p>
+I build intelligent systems that can <b>see, hear, reason, and act.</b><br/>
+Turning AI capabilities into real products, not just prototypes.
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/yeabsera-sisay-b5615b240/) · [Portfolio](https://yeabsera-sisay.vercel.app/) · [Email](mailto:g4uforlife@gmail.com)
+<p>
+  <a href="https://yeabsera-sisay.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yeabsera-sisay-b5615b240/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:g4uforlife@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
-
-## What I Build
-
-* **AI Agents & Applications** — intelligent systems that reason, interact, automate workflows, and work with real-world data.
-* **Computer Vision Systems** — camera-based interaction, pose/face tracking, visual understanding, and multimodal experiences.
-* **Applied Machine Learning** — predictive models, evaluation, explainability, and production-oriented ML pipelines.
-* **AI Infrastructure & APIs** — integrating models into reliable applications through APIs, backend services, and cloud deployment.
-
-I care about the entire path from **idea → model → system → usable product**.
-
----
-
-## Selected Work
-
-### [Suno](https://github.com/yab-g4u) — Interactive AI & Computer Vision
-
-A computer-vision-powered learning environment exploring how children can interact with technology through **facial movement, body tracking, gestures, speech, and visual feedback**.
-
-The system combines browser-based computer vision with interactive learning activities to create a more natural human–AI interface.
-
-**Focus:** Computer Vision · Pose Estimation · Face Landmarks · Multimodal Interaction · AI
+</div>
 
 ---
 
-### [Omniq](https://github.com/yab-g4u/omniq) — Multimodal AI System
+## 🧠 What I Build
 
-An AI system built around **voice-first interaction**, designed to turn natural spoken conversations into structured workflows.
+I’m interested in the intersection of **AI, software engineering, and human interaction**.
 
-The project explores real-time voice interfaces, multilingual interaction, telephony-style experiences, and AI-driven information extraction.
+<table>
+<tr>
+<td width="50%">
 
-**Focus:** Agentic AI · Voice AI · WebSockets · Multimodal AI · Real-time Systems
+### 🤖 Agentic AI
 
----
+Building AI systems that can reason, use tools, interact with users, and automate real workflows.
 
-### [Medscope](https://github.com/yab-g4u/medscope) — AI-Powered Health Intelligence
+**LLMs · Agents · RAG · Tool Use · Multimodal AI**
 
-An AI application designed to make medical and medication information easier to access and understand.
+</td>
 
-Built around an AI-powered interface that combines structured information with natural-language interaction.
+<td width="50%">
 
-**Focus:** AI Applications · NLP · Information Retrieval · Product Engineering
+### 👁️ Computer Vision
 
----
+Building systems that understand people, movement, gestures, and visual environments.
 
-### [ATLAS](https://github.com/yab-g4u) — AI Portfolio Deployment
+**OpenCV · MediaPipe · Pose · Face Tracking · Real-time Vision**
 
-An AI-powered portfolio generation system designed to turn a developer's professional information into a deployable personal website.
+</td>
+</tr>
 
-The system explores automated content generation, GitHub integration, portfolio generation, and deployment workflows.
+<tr>
+<td width="50%">
 
-**Focus:** Generative AI · Automation · Full-Stack AI · Developer Tools
+### 🧩 Applied ML
 
----
+From data → models → evaluation → explainability → usable applications.
 
-### [DataPilot](https://github.com/yab-g4u/DataPilot) — Explainable ML for Finance
+**Scikit-learn · PyTorch · TensorFlow · SHAP**
 
-An applied machine-learning system for financial risk analysis that combines predictive modeling with **SHAP-based explainability**.
+</td>
 
-The goal is not only to produce predictions, but to make model decisions understandable to the people using them.
+<td width="50%">
 
-**Focus:** Machine Learning · Explainable AI · SHAP · Scikit-learn · FastAPI
+### ⚙️ AI Engineering
 
----
+Connecting models to reliable products through APIs, real-time systems, and cloud infrastructure.
 
-## Technical Focus
+**FastAPI · PostgreSQL · WebSockets · Docker · Cloud**
 
-**AI / ML**
-
-Python · PyTorch · TensorFlow · Scikit-learn · OpenCV · SHAP · NumPy · Pandas
-
-**Generative & Agentic AI**
-
-LLM Applications · AI Agents · LangChain · RAG · Embeddings · FAISS · Multimodal AI · Voice AI
-
-**Computer Vision**
-
-OpenCV · MediaPipe · Face & Pose Landmarks · Object Detection · Real-time Vision
-
-**Backend & Systems**
-
-FastAPI · Django · Node.js · Express · PostgreSQL · Prisma · Supabase · Firebase
-
-**Frontend**
-
-TypeScript · React · Next.js · Tailwind CSS
-
-**Engineering**
-
-Git · REST APIs · WebSockets · Docker · Cloud Deployment · Testing
+</td>
+</tr>
+</table>
 
 ---
 
-## Engineering Principles
+# 🚀 Selected Work
 
-I focus on:
+> A few projects that represent the kind of systems I like building.
 
-* **Building, not just experimenting** — turning models and APIs into complete usable systems.
-* **Reliable AI** — evaluating behavior, handling failure cases, and designing systems around model limitations.
-* **Human-centered interfaces** — making AI understandable and useful rather than simply adding an AI feature.
-* **Practical deployment** — thinking about performance, APIs, infrastructure, and production constraints early.
-* **Continuous learning** — actively exploring new approaches in AI systems, computer vision, and agentic applications.
+### 👁️ [Suno](https://github.com/yab-g4u)
 
----
+**Interactive AI × Computer Vision**
 
-## Currently Exploring
+An experimental learning environment exploring how children can interact with technology through **facial movement, body tracking, gestures, speech, and visual feedback**.
 
-**Agentic AI · Multimodal AI · Computer Vision · AI Infrastructure · Real-time AI Systems**
+The goal is to move beyond traditional interfaces and explore AI systems that can **observe → understand → respond → encourage**.
 
-I'm particularly interested in systems where AI can **see, hear, reason, and act** rather than simply generate text.
+`Computer Vision` `MediaPipe` `Pose Estimation` `Face Tracking` `Multimodal AI`
 
 ---
 
-## Let's Connect
+### 🎙️ [Omniq](https://github.com/yab-g4u/omniq)
 
-I'm interested in opportunities and collaborations involving:
+**Voice-first AI × Real-time Systems**
 
-**AI Engineering · Computer Vision · Agentic AI · Applied Machine Learning · AI Products**
+A multimodal AI system built around **voice-first interaction**, transforming natural conversations into structured workflows.
 
-[Portfolio](https://yeabsera-sisay.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/yeabsera-sisay-b5615b240/) · [GitHub](https://github.com/yab-g4u)
+The project explores real-time voice interfaces, multilingual interaction, WebSockets, telephony-style experiences, and AI-driven information extraction.
+
+`Agentic AI` `Voice AI` `WebSockets` `Multimodal AI` `Real-time Systems`
 
 ---
+
+### 🩺 [Medscope](https://github.com/yab-g4u/medscope)
+
+**AI × Information Retrieval**
+
+An AI application designed to make medical and medication information easier to understand through a natural-language interface.
+
+`AI Applications` `NLP` `Information Retrieval` `Product Engineering`
+
+---
+
+### 🪄 [ATLAS](https://github.com/yab-g4u)
+
+**Generative AI × Developer Tools**
+
+An AI-powered portfolio generation system designed to transform professional information into a deployable personal website.
+
+Explores automated content generation, GitHub integration, portfolio generation, and deployment workflows.
+
+`Generative AI` `Automation` `Developer Tools` `Full-Stack AI`
+
+---
+
+### 📊 [DataPilot](https://github.com/yab-g4u/DataPilot)
+
+**Machine Learning × Explainable AI**
+
+An applied machine-learning system for financial risk analysis combining predictive modeling with **SHAP-based explainability**.
+
+The focus is not simply predicting outcomes, but helping users understand **why a model made a decision**.
+
+`Python` `Scikit-learn` `SHAP` `Explainable AI` `FastAPI`
+
+---
+
+# 🛠️ Technical Stack
+
+<div align="center">
+
+### Artificial Intelligence
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+
+<br/>
+
+`LLMs` · `AI Agents` · `RAG` · `LangChain` · `Embeddings` · `FAISS` · `SHAP` · `Multimodal AI`
+
+### Computer Vision
+
+<img src="https://skillicons.dev/icons?i=opencv" />
+
+<br/>
+
+`MediaPipe` · `Face Landmarks` · `Pose Estimation` · `Gesture Recognition` · `Object Detection` · `Real-time Vision`
+
+### Backend & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,prisma,docker,firebase,supabase" />
+
+<br/>
+
+`REST APIs` · `WebSockets` · `Authentication` · `Cloud Deployment` · `AI APIs`
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,vite" />
+
+### Engineering
+
+<img src="https://skillicons.dev/icons?i=git,github,linux" />
+
+</div>
+
+---
+
+# 🔬 How I Think About AI
+
+```text
+        PROBLEM
+           │
+           ▼
+     ┌─────────────┐
+     │   RESEARCH  │
+     └──────┬──────┘
+            │
+            ▼
+     ┌─────────────┐
+     │    MODEL    │
+     └──────┬──────┘
+            │
+            ▼
+     ┌─────────────┐
+     │    SYSTEM   │
+     └──────┬──────┘
+            │
+            ▼
+     ┌─────────────┐
+     │   PRODUCT   │
+     └──────┬──────┘
+            │
+            ▼
+        REAL USERS
+```
+
+I care about the entire path:
+
+**Idea → Model → System → Product → User**
+
+Not just whether a model works in a notebook.
+
+---
+
+# ⚡ What I'm Exploring
+
+<table>
+<tr>
+<td align="center">🤖<br/><b>Agentic AI</b></td>
+<td align="center">👁️<br/><b>Computer Vision</b></td>
+<td align="center">🎙️<br/><b>Voice AI</b></td>
+<td align="center">🧠<br/><b>Multimodal AI</b></td>
+</tr>
+</table>
+
+I'm particularly interested in the next generation of AI systems that can:
+
+**See → Hear → Understand → Reason → Act**
+
+---
+
+# 🏗️ Engineering Principles
+
+**01 — Build, don't just experiment.**
+I enjoy taking AI capabilities beyond notebooks and turning them into usable systems.
+
+**02 — Design around model limitations.**
+AI systems need fallbacks, validation, evaluation, and thoughtful failure handling.
+
+**03 — Human interaction matters.**
+The best AI model is useless if the interface makes it difficult to use.
+
+**04 — Ship and iterate.**
+I prefer building something real, getting feedback, and improving it over endlessly polishing a prototype.
+
+---
+
+# 🤝 Let's Build Something
+
+I'm interested in opportunities and collaborations around:
+
+**AI Engineering · Agentic AI · Computer Vision · Multimodal Systems · Applied ML · AI Products**
+
+<br/>
+
+<div align="center">
+
+<a href="https://yeabsera-sisay.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/yeabsera-sisay-b5615b240/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:g4uforlife@gmail.com">
+<img src="https://img.shields.io/badge/g4uforlife%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <sub>Building intelligent systems from Ethiopia 🇪🇹</sub>
+
+</div>
